@@ -2,14 +2,8 @@
 	"name": "cansecurity", 
 	"description": "cansecurity is your all-in-one security library for user authentication, authorization and management in node expressjs apps",
 	"version": "0.6.16",
-	"url": "http://github.com/deitch/cansecurity",
-	"author": "Avi Deitcher <avi@deitcher.net>",
-	"contributors": [
-		{
-			"name": "Alejandro Penedo https://github.com/IGZalejandropenedo",
-			"email": "icedfiend@gmail.com"
-		}
-	],
+	"url": "http://github.com/aniyus/cansecurity",
+	"author": "aniyus",
 	"engines": ["node >= 0.3"],
 	"main": "./lib/index.js", 
 	"dependencies": {
@@ -37,6 +31,6 @@
 	},
 	"repository": {
 		"type" : "git",
-		"url" : "http://github.com/deitch/cansecurity.git"
+		"url" : "http://github.com/aniyus/cansecurity.git"
 	}
 }
